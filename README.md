@@ -1,5 +1,5 @@
-# sqlite
-Sqlite with python
+# sqlite3
+Sqlite3 with python
 
 References - 
 
